@@ -1,2 +1,2 @@
 # gs-go
-A rpc framework
+A microservice framework using gs rpc.
